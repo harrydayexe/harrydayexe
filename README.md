@@ -22,16 +22,17 @@
     ".NET/C#",
     "(Confluent) Kafka",
     "Kubernetes",
-    "Swift",
     "GoLang",
+    "Python",
+    "Rust",
     "Microservices",
     "Docker",
-    "Python",
     "TypeScript",
+    "Swift",
     "SystemVerilog"
   ],
   "linkedin": "https://linkedin.com/in/harrydayexe",
-  "website": "https://harryday.xyz"
+  "website": "https://harryday.dev"
 }
 ```
 
